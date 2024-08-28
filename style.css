@@ -1,0 +1,35 @@
+h1{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+h2{
+    font-weight: normal;
+    font-family: "Playfair Display", serif;
+}
+
+html{
+    
+    background-color: #1F316F;
+    color:#F9DBBA;
+    font-family: "Playfair Display", serif;
+    font-size: larger;
+}
+.contact{
+    color: #E1D7B7;
+}
+
+footer{
+    text-align: center;
+}
+
+.center {
+    border: 5px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
